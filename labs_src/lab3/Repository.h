@@ -1,3 +1,5 @@
+#pragma once
+
 #include <cstring>
 #include "JobObject.h"
 #include "RestorePoint.h"
